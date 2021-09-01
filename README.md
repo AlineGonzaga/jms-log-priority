@@ -1,0 +1,1 @@
+jms-log-priority
